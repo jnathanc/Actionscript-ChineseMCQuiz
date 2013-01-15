@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<numbers>
+		<question>
+			<questionText>零</questionText>
+			<audio>zero-chinese-ling.mp3</audio>
+			<correctAnswer>zero</correctAnswer>
+			<distractor>ten</distractor>
+			<distractor>two</distractor>
+			<distractor>seven</distractor>
+		</question>	
+		<question>
+			<questionText>一</questionText>
+			<audio>one-chinese-yi.mp3</audio>
+			<correctAnswer>one</correctAnswer>
+			<distractor>three</distractor>
+			<distractor>ten</distractor>
+			<distractor>nine</distractor>
+		</question>
+		<question>
+			<questionText>二</questionText>
+			<audio>two-chinese-er.mp3</audio>
+			<correctAnswer>two</correctAnswer>
+			<distractor>seven</distractor>
+			<distractor>ten</distractor>
+			<distractor>six</distractor>
+		</question>
+		<question>
+			<questionText>三</questionText>
+			<audio>three-chinese-san.mp3</audio>
+			<correctAnswer>three</correctAnswer>
+			<distractor>one</distractor>
+			<distractor>nine</distractor>
+			<distractor>ten</distractor>
+		</question>
+		<question>
+			<questionText>四</questionText>
+			<audio>four-chinese-si.mp3</audio>
+			<correctAnswer>four</correctAnswer>
+			<distractor>five</distractor>
+			<distractor>seven</distractor>
+			<distractor>ten</distractor>
+		</question>
+		<question>
+			<questionText>五</questionText>
+			<audio>five-chinese-wu.mp3</audio>
+			<correctAnswer>five</correctAnswer>
+			<distractor>six</distractor>
+			<distractor>ten</distractor>
+			<distractor>one</distractor>
+		</question>
+		<question>
+			<questionText>六</questionText>
+			<audio>six-chinese-liu.mp3</audio>
+			<correctAnswer>six</correctAnswer>
+			<distractor>nine</distractor>
+			<distractor>one</distractor>
+			<distractor>two</distractor>
+		</question>
+		<question>
+			<questionText>七</questionText>
+			<audio>seven-chinese-qi.mp3</audio>
+			<correctAnswer>seven</correctAnswer>
+			<distractor>one</distractor>
+			<distractor>zero</distractor>
+			<distractor>ten</distractor>
+		</question>
+		<question>
+			<questionText>八</questionText>
+			<audio>eight-chinese-ba.mp3</audio>
+			<correctAnswer>eight</correctAnswer>
+			<distractor>nine</distractor>
+			<distractor>two</distractor>
+			<distractor>three</distractor>
+		</question>
+		<question>
+			<questionText>九</questionText>
+			<audio>nine-chinese-jiu.mp3</audio>
+			<correctAnswer>nine</correctAnswer>
+			<distractor>one</distractor>
+			<distractor>four</distractor>
+			<distractor>five</distractor>
+		</question>
+		<question>
+			<questionText>十</questionText>
+			<audio>ten-chinese-shi.mp3</audio>
+			<correctAnswer>ten</correctAnswer>
+			<distractor>zero</distractor>
+			<distractor>five</distractor>
+			<distractor>eight</distractor>
+		</question>
+	</numbers>
+	
+	<lesson1>
+		<question>
+			<questionText>你</questionText>
+			<audio>you-chinese-ni.mp3</audio>
+			<correctAnswer>you</correctAnswer>
+			<distractor>teacher</distractor>
+			<distractor>also</distractor>
+			<distractor>she, her</distractor>
+		</question>
+		<question>
+			<questionText>好</questionText>
+			<audio>good-chinese-hao.mp3</audio>
+			<correctAnswer>good</correctAnswer>
+			<distractor>I, me</distractor>
+			<distractor>to be, yes</distractor>
+			<distractor>Chinese</distractor>
+		</question>
+		<question>
+			<questionText>是</questionText>
+			<audio>to-be-yes-chinese-shi.mp3</audio>
+			<correctAnswer>to be, yes</correctAnswer>
+			<distractor>to Study, to learn</distractor>
+			<distractor>you</distractor>
+			<distractor>he, him</distractor>
+		</question>
+		<question>
+			<questionText>学</questionText>
+			<audio>to-study-to-learn-chinese-xue.mp3</audio>
+			<correctAnswer>to study, to learn</correctAnswer>
+			<distractor>I, me</distractor>
+			<distractor>to be, yes</distractor>
+			<distractor>also</distractor>
+		</question>
+		<question>
+			<questionText>学生</questionText>
+			<audio>student-chinese-xuesheng.mp3</audio>
+			<correctAnswer>student</correctAnswer>
+			<distractor>?</distractor>
+			<distractor>teacher</distractor>
+			<distractor>not, no</distractor>
+		</question>
+		<question>
+			<questionText>吗</questionText>
+			<audio>question-chinese-ma.mp3</audio>
+			<correctAnswer>?</correctAnswer>
+			<distractor>you</distractor>
+			<distractor>she, her</distractor>
+			<distractor>good</distractor>
+		</question>
+		<question>
+			<questionText>我</questionText>
+			<audio>I-me-chinese-wo.mp3</audio>
+			<correctAnswer>I, me</correctAnswer>
+			<distractor>good</distractor>
+			<distractor>also</distractor>
+			<distractor>to be, yes</distractor>
+		</question>
+		<question>
+			<questionText>呢</questionText>
+			<audio>iterrogative-ending-chinese-ne.mp3</audio>
+			<correctAnswer>(used at the end of an interrogative sentence)</correctAnswer>
+			<distractor>to be, yes</distractor>
+			<distractor>?</distractor>
+			<distractor>student</distractor>
+		</question>
+		<question>
+			<questionText>也</questionText>
+			<audio>also-chinese-ye.mp3</audio>
+			<correctAnswer>also</correctAnswer>
+			<distractor>to study, to learn</distractor>
+			<distractor>she, her</distractor>
+			<distractor>he, him</distractor>
+		</question>
+		<question>
+			<questionText>他</questionText>
+			<audio>he-him-chinese-ta.mp3</audio>
+			<correctAnswer>he, him</correctAnswer>
+			<distractor>student</distractor>
+			<distractor>I, me</distractor>
+			<distractor>she, her</distractor>
+		</question>
+
+		<question>
+			<questionText>不</questionText>
+			<audio>not-no-chinese-bu.mp3</audio>
+			<correctAnswer>not, no</correctAnswer>
+			<distractor>?</distractor>
+			<distractor>also</distractor>
+			<distractor>to be, yes</distractor>
+		</question>
+		<question>
+			<questionText>老师</questionText>
+			<audio>teacher-chinese-laoshi.mp3</audio>
+			<correctAnswer>teacher</correctAnswer>
+			<distractor>I, me</distractor>
+			<distractor>he, hime</distractor>
+			<distractor>she, her</distractor>
+		</question>
+		<question>
+			<questionText>中文</questionText>
+			<audio>chinese-language-chinese-Zhongwen.mp3</audio>
+			<correctAnswer>Chinese</correctAnswer>
+			<distractor>not, no</distractor>
+			<distractor>student</distractor>
+			<distractor>to study, to learn</distractor>
+		</question>
+		<question>
+			<questionText>她</questionText>
+			<audio>she-her-chinese-ta.mp3</audio>
+			<correctAnswer>she, her</correctAnswer>
+			<distractor>teacher</distractor>
+			<distractor>Chinese</distractor>
+			<distractor>he, him</distractor>
+		</question>
+		
+	</lesson1>
+	
+	<lesson2>
+		<question>
+			<questionText>您</questionText>
+			<audio>you-polite-chinese-nin.mp3</audio>
+			<correctAnswer>(polite) you</correctAnswer>
+			<distractor>(polite> please</distractor>
+			<distractor>who, whom?</distractor>
+			<distractor>classmate</distractor>
+		</question>
+		<question>
+			<questionText>贵</questionText>
+			<audio>noble-honored-expensive-chinese-gui.mp3</audio>
+			<correctAnswer>noble, honored, expensive</correctAnswer>
+			<distractor>same, similar</distractor>
+			<distractor>to ask</distractor>
+			<distractor>English (language)</distractor>
+		</question>
+		<question>
+			<questionText>姓</questionText>
+			<audio>surname-familyname-chinese-xing.mp3</audio>
+			<correctAnswer>surname, family name, have as a surname</correctAnswer>
+			<distractor>what?</distractor>
+			<distractor>to call, to be called</distractor>
+			<distractor>noble, honored, expensive</distractor>
+		</question>
+		<question>
+			<questionText>请</questionText>
+			<audio>please-polite-chinese-qing.mp3</audio>
+			<correctAnswer>(polite) please</correctAnswer>
+			<distractor>(polite) you</distractor>
+			<distractor>to ask</distractor>
+			<distractor>what?</distractor>
+		</question>
+		<question>
+			<questionText>问</questionText>
+			<audio>to-ask-chinese-wen.mp3</audio>
+			<correctAnswer>to ask</correctAnswer>
+			<distractor>(polite) you</distractor>
+			<distractor>classmate</distractor>
+			<distractor>name</distractor>
+		</question>
+		<question>
+			<questionText>的</questionText>
+			<audio>to-show-possession-chinese-de.mp3</audio>
+			<correctAnswer>(a structural particle used to show possession)</correctAnswer>
+			<distractor>to ask</distractor>
+			<distractor>English (language)</distractor>
+			<distractor>surname, family name, have as a surname</distractor>
+		</question>
+		<question>
+			<questionText>英文</questionText>
+			<audio>Yingwen-EnglishLanguage-Chinese.mp3</audio>
+			<correctAnswer>English (language)</correctAnswer>
+			<distractor>classmate</distractor>
+			<distractor>(polite) you</distractor>
+			<distractor>same, similar</distractor>
+		</question>
+		<question>
+			<questionText>名字</questionText>
+			<audio>name-chinese-mingzi.mp3</audio>
+			<correctAnswer>name</correctAnswer>
+			<distractor>noble, honored, expensive</distractor>
+			<distractor>to call, to be called</distractor>
+			<distractor>who, whom?</distractor>
+		</question>
+		<question>
+			<questionText>叫</questionText>
+			<audio>to-call-be-called-chinese-jiao.mp3</audio>
+			<correctAnswer>to call, to be called</correctAnswer>
+			<distractor>what?</distractor>
+			<distractor>name</distractor>
+			<distractor>same, similar</distractor>
+		</question>
+		<question>
+			<questionText>什么</questionText>
+			<audio>what-chinese-shenme.mp3</audio>
+			<correctAnswer>what?</correctAnswer>
+			<distractor>who, whom?</distractor>
+			<distractor>to ask</distractor>
+			<distractor>(polite) please</distractor>
+		</question>
+		<question>
+			<questionText>谁</questionText>
+			<audio>who-whom-chinese-shei.mp3</audio>
+			<correctAnswer>who, whom?</correctAnswer>
+			<distractor>to call, to be called</distractor>
+			<distractor>name</distractor>
+			<distractor>to ask</distractor>
+		</question>
+		<question>
+			<questionText>同学</questionText>
+			<audio>classmate-chinese-tongxue.mp3</audio>
+			<correctAnswer>classmate</correctAnswer>
+			<distractor>same, similar</distractor>
+			<distractor>English (language)</distractor>
+			<distractor>noble, honored, expensive</distractor>
+		</question>
+		<question>
+			<questionText>同</questionText>
+			<audio>same-similar-chinese-tong.mp3</audio>
+			<correctAnswer>same, similar</correctAnswer>
+			<distractor>name</distractor>
+			<distractor>(polite) you</distractor>
+			<distractor>who, whom?</distractor>
+		</question>
+	</lesson2>
+	
+	<lesson3>
+		<question>
+			<questionText></questionText>
+			<audio>.mp3</audio>
+			<correctAnswer></correctAnswer>
+			<distractor></distractor>
+			<distractor></distractor>
+			<distractor></distractor>
+		</question>
+	</lesson3>
+	<lesson4>
+		
+	</lesson4>
+	<lesson5>
+		
+	</lesson5>
+	<lesson6>
+		
+	</lesson6>
+	<lesson7>
+		
+	</lesson7>
+</data>
