@@ -317,24 +317,574 @@
 	
 	<lesson3>
 		<question>
-			<questionText></questionText>
+			<questionText>哪</questionText>
 			<audio>.mp3</audio>
-			<correctAnswer></correctAnswer>
-			<distractor></distractor>
-			<distractor></distractor>
-			<distractor></distractor>
+			<correctAnswer>which</correctAnswer>
+			<distractor>person</distractor>
+			<distractor>to speak</distractor>
+			<distractor>a little</distractor>
 		</question>
+        <question>
+			<questionText>国</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>country</correctAnswer>
+			<distractor>and</distractor>
+			<distractor>can, be able to, know how to</distractor>
+			<distractor>by the way </distractor>
+		</question>
+        <question>
+			<questionText>人</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>person</correctAnswer>
+			<distractor>which</distractor>
+			<distractor>very, quite</distractor>
+			<distractor>to speak</distractor>
+		</question>
+        <question>
+			<questionText>很</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>very, quite</correctAnswer>
+			<distractor>United States</distractor>
+			<distractor>and</distractor>
+			<distractor>which</distractor>
+		</question>
+        <question>
+			<questionText>对了</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>by the way</correctAnswer>
+			<distractor>country</distractor>
+			<distractor>person</distractor>
+			<distractor>a little</distractor>
+		</question>
+        <question>
+			<questionText>说</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>to speak</correctAnswer>
+			<distractor>very, quite</distractor>
+			<distractor>Britain</distractor>
+			<distractor>France</distractor>
+		</question>
+        <question>
+			<questionText>会</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>can, be able to, know how to</correctAnswer>
+			<distractor>to speak</distractor>
+			<distractor>person</distractor>
+			<distractor>which</distractor>
+		</question>
+        <question>
+			<questionText>一点儿</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>a little</correctAnswer>
+			<distractor>country</distractor>
+			<distractor>Britain</distractor>
+			<distractor>by the way</distractor>
+		</question>
+        <question>
+			<questionText>和</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>and</correctAnswer>
+			<distractor>to speak</distractor>
+			<distractor>very, quite</distractor>
+			<distractor>country</distractor>
+		</question>
+        <question>
+			<questionText>美国</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>United States</correctAnswer>
+			<distractor>France</distractor>
+			<distractor>Britain</distractor>
+			<distractor>and</distractor>
+		</question>
+        <question>
+			<questionText>英国</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>Britain</correctAnswer>
+			<distractor>United States</distractor>
+			<distractor>France</distractor>
+			<distractor>a little</distractor>
+		</question>
+        <question>
+			<questionText>法国</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>France</correctAnswer>
+			<distractor>Britain</distractor>
+			<distractor>United States</distractor>
+			<distractor>person</distractor>
+		</question>
+        
 	</lesson3>
+    
 	<lesson4>
-		
+		<question>
+			<questionText>月</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>month</correctAnswer>
+			<distractor>that</distractor>
+			<distractor>book</distractor>
+			<distractor>literature</distractor>
+		</question>
+        <question>
+			<questionText>号</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>day of a month</correctAnswer>
+			<distractor>difficult</distractor>
+			<distractor>busy</distractor>
+			<distractor>tired</distractor>
+		</question>
+        <question>
+			<questionText>那</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>that</correctAnswer>
+			<distractor>this</distractor>
+			<distractor>day of a month</distractor>
+			<distractor>too</distractor>
+		</question>
+        <question>
+			<questionText>书</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>book</correctAnswer>
+			<distractor>but, yet, however</distractor>
+			<distractor>few, little</distractor>
+			<distractor>that</distractor>
+		</question>
+        <question>
+			<questionText>这</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>this</correctAnswer>
+			<distractor>homework, assignment</distractor>
+			<distractor>that</distractor>
+			<distractor>book</distractor>
+		</question>
+        <question>
+			<questionText>本</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>(measure word for bound items such as books and magazines)</correctAnswer>
+			<distractor>many, much</distractor>
+			<distractor>but, yet, however</distractor>
+			<distractor>that</distractor>
+		</question>
+        <question>
+			<questionText>文学</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>literature</correctAnswer>
+			<distractor>(suffix used after a personal pronoun to show plural numbers)</distractor>
+			<distractor>book</distractor>
+			<distractor>tired</distractor>
+		</question>
+        <question>
+			<questionText>难</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>difficult</correctAnswer>
+			<distractor>but, yet, however</distractor>
+			<distractor>too</distractor>
+			<distractor>book</distractor>
+		</question>
+        <question>
+			<questionText>太</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>too</correctAnswer>
+			<distractor>difficult</distractor>
+			<distractor>homework, assignment</distractor>
+			<distractor>literature</distractor>
+		</question>
+        <question>
+			<questionText>可是</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>but, yet, however</correctAnswer>
+			<distractor>literature</distractor>
+			<distractor>month</distractor>
+			<distractor>day of a month</distractor>
+		</question>
+        <question>
+			<questionText>功课</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>homework, assignment</correctAnswer>
+			<distractor>month</distractor>
+			<distractor>day of a month</distractor>
+			<distractor>book</distractor>
+		</question>
+        <question>
+			<questionText>多</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>many, much</correctAnswer>
+			<distractor>too</distractor>
+			<distractor>day of a month</distractor>
+			<distractor>this</distractor>
+		</question>
+        <question>
+			<questionText>门</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>(suffix used after a personal pronoun to show plural numbers)</correctAnswer>
+			<distractor>this</distractor>
+			<distractor>that</distractor>
+			<distractor>(measure word for bound items such as books and magazines)</distractor>
+		</question>
+        <question>
+			<questionText>少</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>few, little</correctAnswer>
+			<distractor>this</distractor>
+			<distractor>(measure word for bound items such as books and magazines)</distractor>
+			<distractor>difficult</distractor>
+		</question>
+        <question>
+			<questionText>忙</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>busy</correctAnswer>
+			<distractor>homework, assignment</distractor>
+			<distractor>literature</distractor>
+			<distractor>too</distractor>
+		</question><question>
+			<questionText>累</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>tired</correctAnswer>
+			<distractor>that</distractor>
+			<distractor>literature</distractor>
+			<distractor>difficult</distractor>
+		</question>
 	</lesson4>
+    
 	<lesson5>
-		
+        <question>
+			<questionText>生日</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>birthday</correctAnswer>
+			<distractor>to come</distractor>
+			<distractor>to introduce, introduction</distractor>
+			<distractor>(used after a verb to indicate a brief action)</distractor>
+		</question>
+        <question>
+			<questionText>岁</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>years of age</correctAnswer>
+			<distractor>to come</distractor>
+			<distractor>(used after a verb to indicate a brief action)</distractor>
+			<distractor>roommate</distractor>
+		</question>
+        <question>
+			<questionText>朋友</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>friend</correctAnswer>
+			<distractor>birthday</distractor>
+			<distractor>(used after a verb to indicate a brief action)</distractor>
+			<distractor>roommate</distractor>
+		</question>
+        <question>
+			<questionText>来</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>to come</correctAnswer>
+			<distractor>years of age</distractor>
+			<distractor>friend</distractor>
+			<distractor>roommate</distractor>
+		</question>
+        <question>
+			<questionText>介绍</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>to introduce, introduction</correctAnswer>
+			<distractor>to have, there is/are</distractor>
+			<distractor>two</distractor>
+			<distractor>friend</distractor>
+		</question>
+        <question>
+			<questionText>一下</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>(used after a verb to indicate a brief action)</correctAnswer>
+			<distractor>birthday</distractor>
+			<distractor>to come</distractor>
+			<distractor>to have, there is/are</distractor>
+		</question>
+        <question>
+			<questionText>室友</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>roommate</correctAnswer>
+			<distractor>years of age</distractor>
+			<distractor>how many</distractor>
+			<distractor>two</distractor>
+		</question>
+        <question>
+			<questionText>有</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>to have, there is/are</correctAnswer>
+			<distractor>birthday</distractor>
+			<distractor>to introduce, introduction</distractor>
+			<distractor>how many</distractor>
+		</question>
+        <question>
+			<questionText>几</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>how many</correctAnswer>
+			<distractor>years of age</distractor>
+			<distractor>two</distractor>
+			<distractor>(the most commonly used measure word for people, characters, things in general)</distractor>
+		</question>
+        <question>
+			<questionText>两	</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>two</correctAnswer>
+			<distractor>to introduce, introduction</distractor>
+			<distractor>to have, there is/are</distractor>
+			<distractor>how many</distractor>
+		</question>
+        <question>
+			<questionText>个</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>(the most commonly used measure word for people, characters, things in general)</correctAnswer>
+			<distractor>friend</distractor>
+			<distractor>all, both</distractor>
+			<distractor>with</distractor>
+		</question>
+        <question>
+			<questionText>都</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>all, both</correctAnswer>
+			<distractor>(the most commonly used measure word for people, characters, things in general)</distractor>
+			<distractor>boyfriend</distractor>
+			<distractor>with</distractor>
+		</question>
+        <question>
+			<questionText>常</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>often, frequently</correctAnswer>
+			<distractor>(the most commonly used measure word for people, characters, things in general)</distractor>
+			<distractor>all, both</distractor>
+			<distractor>with</distractor>
+		</question>
+        <question>
+			<questionText>跟</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>with</correctAnswer>
+			<distractor>all, both</distractor>
+			<distractor>to not have, to be without, there isn’t/aren’t</distractor>
+			<distractor>girlfriend</distractor>
+		</question>
+        <question>
+			<questionText>没有</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>to not have, to be without, there isn’t/aren’t</correctAnswer>
+			<distractor>all, both</distractor>
+			<distractor>boyfriend</distractor>
+			<distractor>to know, to recognize, to be acquainted with/familiar with</distractor>
+		</question>
+        <question>
+			<questionText>女朋友</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>girlfriend</correctAnswer>
+			<distractor>to not have, to be without, there isn’t/aren’t</distractor>
+			<distractor>boyfriend</distractor>
+			<distractor>to know, to recognize, to be acquainted with/familiar with</distractor>
+		</question>
+        <question>
+			<questionText>男朋友</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>boyfriend</correctAnswer>
+			<distractor>to not have, to be without, there isn’t/aren’t</distractor>
+			<distractor>girlfriend</distractor>
+			<distractor>to know, to recognize, to be acquainted with/familiar with</distractor>
+		</question>
+        <question>
+			<questionText>认识</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>to know, to recognize, to be acquainted with/familiar with</correctAnswer>
+			<distractor>girlfriend</distractor>
+			<distractor>boyfriend</distractor>
+			<distractor>with</distractor>
+		</question>
 	</lesson5>
+    
+
+    
 	<lesson6>
-		
+        <question>
+			<questionText>家</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>home, family</correctAnswer>
+			<distractor>all, everyone</distractor>
+			<distractor>from</distractor>
+			<distractor>to be at, to be in</distractor>
+		</question>
+        <question>
+			<questionText>大家</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>all, everyone</correctAnswer>
+			<distractor>home, family</distractor>
+			<distractor>from</distractor>
+			<distractor>to be at, to be in</distractor>
+		</question>
+        <question>
+			<questionText>从</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>from</correctAnswer>
+			<distractor>home, family</distractor>
+			<distractor>all, everyone</distractor>
+			<distractor>to be at, to be in</distractor>
+		</question>
+        <question>
+			<questionText>在</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>to be at, to be in</correctAnswer>
+			<distractor>home, family</distractor>
+			<distractor>all, everyone</distractor>
+			<distractor>from</distractor>
+		</question>
+        <question>
+			<questionText>爸爸</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>father</correctAnswer>
+			<distractor>mother</distractor>
+			<distractor>elder sister</distractor>
+			<distractor>younger sister</distractor>
+		</question>
+        <question>
+			<questionText>妈妈</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>mother</correctAnswer>
+			<distractor>father</distractor>
+			<distractor>elder sister</distractor>
+			<distractor>younger sister</distractor>
+		</question>
+        <question>
+			<questionText>姐姐</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>elder sister</correctAnswer>
+			<distractor>father</distractor>
+			<distractor>mother</distractor>
+			<distractor>younger sister</distractor>
+		</question>
+        <question>
+			<questionText>哥哥</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>elder brother</correctAnswer>
+			<distractor>father</distractor>
+			<distractor>mother</distractor>
+			<distractor>elder sister</distractor>
+		</question>
+        <question>
+			<questionText>妹妹</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>younger sister</correctAnswer>
+			<distractor>siblings</distractor>
+			<distractor>work</distractor>
+			<distractor>(measure word for vehicles)</distractor>
+		</question>
+        <question>
+			<questionText>弟弟</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>younger brother</correctAnswer>
+			<distractor>siblings</distractor>
+			<distractor>work</distractor>
+			<distractor>(measure word for vehicles)</distractor>
+		</question>
+        <question>
+			<questionText>兄弟姐妹</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>siblings</correctAnswer>
+			<distractor>work</distractor>
+			<distractor>(measure word for vehicles)</distractor>
+			<distractor>car</distractor>
+		</question>
+        <question>
+			<questionText>工作</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>work</correctAnswer>
+			<distractor>siblings</distractor>
+			<distractor>car</distractor>
+			<distractor>(measure word for certain animals, or for one of a pair)</distractor>
+		</question>
+        <question>
+			<questionText>辆	</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>(measure word for vehicles)</correctAnswer>
+			<distractor>car</distractor>
+			<distractor>(measure word for certain animals, or for one of a pair)</distractor>
+			<distractor>dog</distractor>
+		</question>
+        <question>
+			<questionText>车	</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>car</correctAnswer>
+			<distractor>(measure word for certain animals, or for one of a pair)</distractor>
+			<distractor>dog</distractor>
+			<distractor>work</distractor>
+		</question>
+        <question>
+			<questionText>只</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>(measure word for certain animals, or for one of a pair)</correctAnswer>
+			<distractor>dog</distractor>
+			<distractor>siblings</distractor>
+			<distractor>work</distractor>
+		</question>
+        <question>
+			<questionText>狗</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>dog</correctAnswer>
+			<distractor>siblings</distractor>
+			<distractor>work</distractor>
+			<distractor>elder brother</distractor>
+		</question>               
 	</lesson6>
+    
+    
+    
+    
 	<lesson7>
-		
+        <question>
+			<questionText>住</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>to live</correctAnswer>
+			<distractor>where?</distractor>
+			<distractor>number</distractor>
+			<distractor>phone</distractor>
+		</question>
+        <question>
+			<questionText>哪儿</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>where?</correctAnswer>
+			<distractor>to live</distractor>
+			<distractor>number</distractor>
+			<distractor>phone</distractor>
+		</question>
+        <question>
+			<questionText>号码	</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>number</correctAnswer>
+			<distractor>to live</distractor>
+			<distractor>where?</distractor>
+			<distractor>phone</distractor>
+		</question>
+        <question>
+			<questionText> 电话</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>phone</correctAnswer>
+			<distractor>to live</distractor>
+			<distractor>cell phone</distractor>
+			<distractor>number</distractor>
+		</question>
+        <question>
+			<questionText>手机</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>cell phone</correctAnswer>
+			<distractor>small</distractor>
+			<distractor>number</distractor>
+			<distractor>phone</distractor>
+		</question>
+        <question>
+			<questionText>大</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>big</correctAnswer>
+			<distractor>cell phone</distractor>
+			<distractor>small</distractor>
+			<distractor>phone</distractor>
+		</question>
+        <question>
+			<questionText>小</questionText>
+			<audio>.mp3</audio>
+			<correctAnswer>small</correctAnswer>
+			<distractor>cell phone</distractor>
+			<distractor>big</distractor>
+			<distractor>where?</distractor>
+		</question>
+
 	</lesson7>
 </data>
